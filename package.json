@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://github.com/vaish2004/portfolio-jite",
+  "homepage": "https://github.com/vaish2004/portfolio-m-ji",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
